@@ -1,0 +1,24 @@
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.exe.config
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.exe
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.pdb
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.Properties.Resources.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.GenerateResource.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.exe
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.pdb
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.FormLogIn.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.FormRegistro.resources
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.exe.config
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.exe
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.pdb
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.AssemblyReference.cache
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.SuggestedBindingRedirects.cache
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.FormLogIn.resources
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.FormRegistro.resources
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.Properties.Resources.resources
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.GenerateResource.cache
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.CoreCompileInputs.cache
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.exe
+D:\GitHubProyecto\Proyecto-3-BE\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.pdb

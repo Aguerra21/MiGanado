@@ -1,0 +1,131 @@
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.exe.config
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.exe
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\LogInDiseño.pdb
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.Properties.Resources.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.GenerateResource.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.exe
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.pdb
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.FormLogIn.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.FormRegistro.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\MySql.Data.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Buffers.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.IO.Pipelines.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Memory.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\BouncyCastle.Crypto.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\Google.Protobuf.pdb
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\Google.Protobuf.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\K4os.Compression.LZ4.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\K4os.Hash.xxHash.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\MySql.Data.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Buffers.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.IO.Pipelines.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Memory.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.CopyComplete
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.formMenu.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.UserControlBlank.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.UserControlDays.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.EventForm.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\LogInDiseño.exe.config
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\LogInDiseño.exe
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\LogInDiseño.pdb
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\Google.Protobuf.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\MySql.Data.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Buffers.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.IO.Pipelines.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Memory.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\Google.Protobuf.pdb
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\Google.Protobuf.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\MySql.Data.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Buffers.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.IO.Pipelines.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Memory.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.csproj.AssemblyReference.cache
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.EventForm.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.formLogIn.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.FormRegistro.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.formMenu.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.Properties.Resources.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.UserControlBlank.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.UserControlDays.resources
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.csproj.GenerateResource.cache
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.csproj.CoreCompileInputs.cache
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.csproj.CopyComplete
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.exe
+C:\Users\valen_oyfytdw\OneDrive\Documentos\GitHub\Proyecto-3-BE\LogInDiseño\obj\Debug\LogInDiseño.pdb
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\LogInDiseño.exe.config
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\LogInDiseño.exe
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\LogInDiseño.pdb
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\Google.Protobuf.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\MySql.Data.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Buffers.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Memory.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\Google.Protobuf.pdb
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\Google.Protobuf.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\MySql.Data.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Buffers.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Memory.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.FormAgregarAnimal.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.FormAgregarPotrero.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.FormEditarPotreros.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.EventForm.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.formLogIn.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.FormRegistro.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.formMenu.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.Properties.Resources.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.UserControlBlank.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.UserControlDays.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.FormVerAnimales.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.FormVerPotreros.resources
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.csproj.CopyComplete
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.exe
+C:\Users\renzo\Documents\GitHub\Proyecto-3-BE\MiGanado\LogInDiseñoVersion\obj\Debug\LogInDiseño.pdb
